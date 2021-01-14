@@ -1,0 +1,78 @@
+header{
+    background-color: #f1f3ed;
+}
+.text-size{
+    font-size: 60px;
+   color: rgb(51, 56, 56); 
+   font-weight: 50px !important;
+}
+.color{
+    color: #76C27E;
+}
+.btn-primary{
+    background-color: #2A1E59 !important;
+    padding: .5rem 1.5rem !important;
+    font-size: 1.25rem !important;
+    border-radius: .5rem !important;
+    border: none !important;
+}
+
+.navbar-nav{
+    margin-left: auto;
+}
+.ground{
+    background-color: #f1f3ed;
+}
+.ground img{
+    
+    width: 470px !important;
+    padding-bottom: 5px;
+}
+.icone{
+    border-radius: 10px;
+    padding: 20px;
+}
+.right-imag{
+    width: 434px;
+    height: 354.07px;  
+}
+.hero-section{
+    height: 800px;
+  
+}
+.home{
+    width: 200px;
+
+}
+.aboud{
+    width: 599px !important;
+}
+h1{
+    color: rgb(70, 66, 66);
+}
+h3{
+    color: #76C27E;
+}
+h4{
+    color: cornflowerblue;
+}
+h2{
+    color: rgb(15, 186, 238);
+}
+
+.top-section{
+    height: 600px;
+}
+.card{
+    padding: 15px;
+    border: 1px solid white!important;
+    border-radius: 15px;
+}
+.card img{
+    padding: 15px;
+    background-color: #d1d1d1;
+    border-radius: 15px;
+}
+.payment-method img {
+    width: 40px;
+}
